@@ -1,6 +1,6 @@
 {
   "name": "open-korean-text-node",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Nodejs binding for open-korean-text via java interface.",
   "main": "index.js",
   "types": "lib/index.d.ts",
@@ -35,8 +35,7 @@
   },
   "dependencies": {
     "es6-promisify": "^6.1.1",
-    "java": "^0.12.1",
-    "node-wget": "^0.4.3"
+    "java": "^0.12.1"
   },
   "mavenDependencies": {
     "scala-library": "https://search.maven.org/remotecontent?filepath=org/scala-lang/scala-library/2.12.4/scala-library-2.12.4.jar",
